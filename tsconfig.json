@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    //import * / import ~~  에러 해결
+    "esModuleInterop": true
+  }
+}
